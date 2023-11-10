@@ -37,15 +37,17 @@ The Library Management System is a web application built with Laravel, designed 
 
 ## Screenshots
 
-![Books List](https://drive.google.com/file/d/1QYQfTfnzNN6VryKrXEtHJ4h3qaAa6Nlv/view?usp=drive_linkg)
 
-![Issued Books](https://drive.google.com/file/d/1gcgBIccKYTmbOSy-39SwKAceoJwglokg/view?usp=sharing)
+![booksList](https://github.com/abbashaider99/lms/assets/97340314/c8c60edf-753b-4629-908f-213060b3876d)
 
-![Issue New Book](https://drive.google.com/file/d/12dnlb-MMsCcHY_lhKrazUlNIvOn1vRr4/view?usp=sharing)
+![issueOrReturnBook](https://github.com/abbashaider99/lms/assets/97340314/c541075f-ee44-48e0-a6fd-dd8cfdd9c846)
 
-![Search Student with Name or ID](https://drive.google.com/file/d/1T5DZE2tSqZvXdrpGzwUT_WBxvCZg78-y/view?usp=sharing)
+![issuedBooks](https://github.com/abbashaider99/lms/assets/97340314/9129f4ea-6933-4555-9ced-f20eca15f07e)
 
-![Add New Students similar to User](https://drive.google.com/file/d/1LlLH_5t58AoaxrMaBNNp2NSmH1tDmwSk/view?usp=sharing)
+![issueNewBook](https://github.com/abbashaider99/lms/assets/97340314/fcfd633c-1e32-4c4c-96ef-f4327a2b93e5)
+
+![addNewStudents](https://github.com/abbashaider99/lms/assets/97340314/c877cc6b-8800-45a2-bf9a-72aebddf6159)
+
 
 ## Getting Started
 
