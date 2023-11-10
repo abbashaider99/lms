@@ -39,32 +39,37 @@ The Library Management System is a web application built with Laravel, designed 
 
 Follow these steps to set up and run the Library Management System on your local machine.
 
- **Clone the Repository:**
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/abbashaider99/lms.git
 
-
 Change into the project directory:
+
 ```cd library-management-system
 ```
 
 Install dependencies:
+
 ```composer install
 ```
 
 Copy the .env.example file and configure your database:
+
 ```cp .env.example .env
 ```
 
 Generate application key:
+
 ```php artisan key:generate
 ```
 
 Seed the database (optional, for sample data):
+
 ```php artisan db:seed
 ```
 
 Serve the application:
+
 ```php artisan serve
 ```
 
