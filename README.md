@@ -43,40 +43,44 @@ Follow these steps to set up and run the Library Management System on your local
    ```bash
    git clone https://github.com/abbashaider99/lms.git
 
-Change into the project directory:
-```cd library-management-system
-```
+2. **Change into the project directory:**
+    ```bash
+    cd library-management-system
 
-Install dependencies:
-```composer install
-```
+3. **Install dependencies:**
+    ```bash
+    composer install
 
-Copy the .env.example file and configure your database:
-```cp .env.example .env
-```
 
-Generate application key:
-```php artisan key:generate
-```
+4. **Copy the .env.example file and configure your database:**
+    ```bash
+    cp .env.example .env
 
-Seed the database (optional, for sample data):
-```php artisan db:seed
-```
 
-Serve the application:
-```php artisan serve
-```
+5. **Generate application key:**
+    ```bash
+    php artisan key:generate
+
+
+6. **Seed the database (optional, for sample data):**
+    ```bash
+    php artisan db:seed
+
+7. **Serve the application:**
+    ```bash
+    php artisan serve
 
 
 
 Access the application at [http://localhost:8000](http://localhost:8000).
 
-2. Login as an admin using the default credentials:
+
+*Login as an admin using the default credentials:*
 
 - Username: admin@example.com
 - Password: secret
 
-3. Explore the admin panel to configure settings, add students, books, and more.
+*Explore the admin panel to configure settings, add students, books, and more.*
 
 #### Email Notification
 
