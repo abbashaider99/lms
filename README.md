@@ -35,6 +35,18 @@ The Library Management System is a web application built with Laravel, designed 
 - **Responsive Design:**
   - Ensure a user-friendly experience on various devices with a responsive design.
 
+## Screenshots
+
+![Books List](https://drive.google.com/file/d/1QYQfTfnzNN6VryKrXEtHJ4h3qaAa6Nlv/view?usp=drive_linkg)
+
+![Issued Books](https://drive.google.com/file/d/1gcgBIccKYTmbOSy-39SwKAceoJwglokg/view?usp=sharing)
+
+![Issue New Book](https://drive.google.com/file/d/12dnlb-MMsCcHY_lhKrazUlNIvOn1vRr4/view?usp=sharing)
+
+![Search Student with Name or ID](https://drive.google.com/file/d/1T5DZE2tSqZvXdrpGzwUT_WBxvCZg78-y/view?usp=sharing)
+
+![Add New Students similar to User](https://drive.google.com/file/d/1LlLH_5t58AoaxrMaBNNp2NSmH1tDmwSk/view?usp=sharing)
+
 ## Getting Started
 
 Follow these steps to set up and run the Library Management System on your local machine.
