@@ -51,16 +51,13 @@ Follow these steps to set up and run the Library Management System on your local
     ```bash
     composer install
 
-
 4. **Copy the .env.example file and configure your database:**
     ```bash
     cp .env.example .env
 
-
 5. **Generate application key:**
     ```bash
     php artisan key:generate
-
 
 6. **Seed the database (optional, for sample data):**
     ```bash
@@ -70,10 +67,7 @@ Follow these steps to set up and run the Library Management System on your local
     ```bash
     php artisan serve
 
-
-
 Access the application at [http://localhost:8000](http://localhost:8000).
-
 
 *Login as an admin using the default credentials:*
 
