@@ -55,7 +55,8 @@ The Library Management System is a web application built with Laravel, designed 
 
 ![Screenshot 2023-11-12 at 00-45-34 LMS](https://github.com/abbashaider99/lms/assets/97340314/5d07e02a-07b8-421d-93fb-cf80df45eae5)
 
-![Screenshot 2023-11-12 at 00-46-31 Book Issued Successfully - English - work abbashaider@gmail com - Gmail](https://github.com/abbashaider99/lms/assets/97340314/f53ad626-0f10-4c24-bcfc-3815f4754f3c)
+![Screenshot 2023-11-12 at 00-53-17 Book Issued Successfully - Poor Dad Rich Dad - learning abbashaider@gmail com - Gmail](https://github.com/abbashaider99/lms/assets/97340314/2c6d435f-b4a2-4e11-9210-3678eda4a10d)
+
 
 
 
