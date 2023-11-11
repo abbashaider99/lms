@@ -37,34 +37,25 @@ The Library Management System is a web application built with Laravel, designed 
 
 ## Screenshots
 
-![Screenshot 2023-11-11 at 15-49-49 Login](https://github.com/abbashaider99/lms/assets/97340314/1a6e0007-bcb3-42b9-8b36-4fc34e8c1b00)
+![Screenshot 2023-11-12 at 00-41-44 Login](https://github.com/abbashaider99/lms/assets/97340314/00256522-2876-4e3b-ba69-286ac986b74b)
 
-![Screenshot 2023-11-11 at 15-50-00 LMS](https://github.com/abbashaider99/lms/assets/97340314/1b8e6b6a-29b7-42e5-b990-dc057eb7d8a3)
+![Screenshot 2023-11-12 at 00-43-39 LMS](https://github.com/abbashaider99/lms/assets/97340314/f15c082a-ebc9-482b-9f4b-aecbea79d006)
 
-![Screenshot 2023-11-11 at 15-50-12 LMS](https://github.com/abbashaider99/lms/assets/97340314/30e02dca-80af-4004-a917-8f661c482cda)
+![Screenshot 2023-11-12 at 00-44-06 LMS](https://github.com/abbashaider99/lms/assets/97340314/30b22f06-6bcd-43c9-8a8d-847f44b8d636)
 
-![Screenshot 2023-11-11 at 15-50-22 LMS](https://github.com/abbashaider99/lms/assets/97340314/218b8a29-6001-46cc-b729-0c6a82afa10a)
+![Screenshot 2023-11-12 at 00-44-16 LMS](https://github.com/abbashaider99/lms/assets/97340314/91c5d946-142c-4583-a358-a188aba837a2)
 
-![Screenshot 2023-11-11 at 15-50-37 LMS](https://github.com/abbashaider99/lms/assets/97340314/49c1ac3e-88bb-44b3-b9c0-71414b891a7d)
+![Screenshot 2023-11-12 at 00-44-24 LMS](https://github.com/abbashaider99/lms/assets/97340314/cb04eb11-0cba-4153-b293-2ee315f9dfa6)
 
-![Screenshot 2023-11-11 at 15-50-44 LMS](https://github.com/abbashaider99/lms/assets/97340314/31657411-5c85-4fc0-b584-7f007eae9e34)
+![Screenshot 2023-11-12 at 00-44-31 LMS](https://github.com/abbashaider99/lms/assets/97340314/0636bbd6-e1cc-4fb9-8fa0-50baf705410e)
 
-![Screenshot 2023-11-11 at 15-50-50 LMS](https://github.com/abbashaider99/lms/assets/97340314/9a09d920-fbf8-4870-aca3-a1a107a60e72)
+![Screenshot 2023-11-12 at 00-44-31 LMS](https://github.com/abbashaider99/lms/assets/97340314/990f786c-fe93-448d-be62-b2cf0aa14f4f)
 
-![Screenshot 2023-11-11 at 15-51-48 LMS](https://github.com/abbashaider99/lms/assets/97340314/62dc7ff1-7a36-4b3b-a772-a3cae6c601d6)
+![Screenshot 2023-11-12 at 00-45-02 LMS](https://github.com/abbashaider99/lms/assets/97340314/379b8eda-a9c6-4ae1-9b18-47fb55349ade)
 
-![Screenshot 2023-11-11 at 15-51-57 LMS](https://github.com/abbashaider99/lms/assets/97340314/4ff50a51-e5d7-4da0-addb-8187ee2c178f)
+![Screenshot 2023-11-12 at 00-45-34 LMS](https://github.com/abbashaider99/lms/assets/97340314/5d07e02a-07b8-421d-93fb-cf80df45eae5)
 
-![Screenshot 2023-11-11 at 15-52-06 LMS](https://github.com/abbashaider99/lms/assets/97340314/814286eb-85d2-47f4-b389-875bc55de562)
-
-![Screenshot 2023-11-11 at 15-52-21 LMS](https://github.com/abbashaider99/lms/assets/97340314/80efa1f1-34eb-49aa-a706-b06175b1d643)
-
-![Screenshot 2023-11-11 at 15-52-14 LMS](https://github.com/abbashaider99/lms/assets/97340314/62ebfbb5-280e-4803-99ad-1dc44be4a91d)
-
-
-
-
-
+![Screenshot 2023-11-12 at 00-46-31 Book Issued Successfully - English - work abbashaider@gmail com - Gmail](https://github.com/abbashaider99/lms/assets/97340314/f53ad626-0f10-4c24-bcfc-3815f4754f3c)
 
 
 
