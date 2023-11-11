@@ -37,16 +37,19 @@ The Library Management System is a web application built with Laravel, designed 
 
 ## Screenshots
 
+![Screenshot 2023-11-11 at 15-50-50 LMS](https://github.com/abbashaider99/lms/assets/97340314/9a09d920-fbf8-4870-aca3-a1a107a60e72)
+![Screenshot 2023-11-11 at 15-51-48 LMS](https://github.com/abbashaider99/lms/assets/97340314/62dc7ff1-7a36-4b3b-a772-a3cae6c601d6)
+![Screenshot 2023-11-11 at 15-51-57 LMS](https://github.com/abbashaider99/lms/assets/97340314/4ff50a51-e5d7-4da0-addb-8187ee2c178f)
+![Screenshot 2023-11-11 at 15-52-06 LMS](https://github.com/abbashaider99/lms/assets/97340314/814286eb-85d2-47f4-b389-875bc55de562)
+![Screenshot 2023-11-11 at 15-52-14 LMS](https://github.com/abbashaider99/lms/assets/97340314/62ebfbb5-280e-4803-99ad-1dc44be4a91d)
+![Screenshot 2023-11-11 at 15-52-21 LMS](https://github.com/abbashaider99/lms/assets/97340314/80efa1f1-34eb-49aa-a706-b06175b1d643)
+![Screenshot 2023-11-11 at 15-49-49 Login](https://github.com/abbashaider99/lms/assets/97340314/1a6e0007-bcb3-42b9-8b36-4fc34e8c1b00)
+![Screenshot 2023-11-11 at 15-50-00 LMS](https://github.com/abbashaider99/lms/assets/97340314/1b8e6b6a-29b7-42e5-b990-dc057eb7d8a3)
+![Screenshot 2023-11-11 at 15-50-12 LMS](https://github.com/abbashaider99/lms/assets/97340314/30e02dca-80af-4004-a917-8f661c482cda)
+![Screenshot 2023-11-11 at 15-50-22 LMS](https://github.com/abbashaider99/lms/assets/97340314/218b8a29-6001-46cc-b729-0c6a82afa10a)
+![Screenshot 2023-11-11 at 15-50-37 LMS](https://github.com/abbashaider99/lms/assets/97340314/49c1ac3e-88bb-44b3-b9c0-71414b891a7d)
+![Screenshot 2023-11-11 at 15-50-44 LMS](https://github.com/abbashaider99/lms/assets/97340314/31657411-5c85-4fc0-b584-7f007eae9e34)
 
-![booksList](https://github.com/abbashaider99/lms/assets/97340314/c8c60edf-753b-4629-908f-213060b3876d)
-
-![issueOrReturnBook](https://github.com/abbashaider99/lms/assets/97340314/c541075f-ee44-48e0-a6fd-dd8cfdd9c846)
-
-![issuedBooks](https://github.com/abbashaider99/lms/assets/97340314/9129f4ea-6933-4555-9ced-f20eca15f07e)
-
-![issueNewBook](https://github.com/abbashaider99/lms/assets/97340314/fcfd633c-1e32-4c4c-96ef-f4327a2b93e5)
-
-![addNewStudents](https://github.com/abbashaider99/lms/assets/97340314/c877cc6b-8800-45a2-bf9a-72aebddf6159)
 
 
 ## Getting Started
